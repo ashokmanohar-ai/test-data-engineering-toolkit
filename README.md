@@ -4,6 +4,16 @@
 
 A planned Quality Engineering toolkit for creating, protecting, validating, and operating test data across UI, API, integration, performance, and AI-quality workflows.
 
+## 📄 Technical White Paper
+
+**[Test Data Engineering for the AI Era: Synthetic Data, Privacy, Quality and Agentic Test Automation](WHITEPAPER.md)**
+
+A practitioner-focused architecture blueprint for treating test data as a governed engineering capability. It covers deterministic synthetic generation, privacy classification, masking and replacement, referential integrity, business-rule validation, parallel-safe isolation, lifecycle and cleanup, provenance, performance-test data, AI/RAG evaluation datasets, bounded agentic generation and CI/CD data-quality gates.
+
+> **Core principle:** test data is trustworthy only when its provenance, permitted use, privacy treatment, business validity, reproducibility, ownership and lifecycle can be proven.
+
+The repository remains **incubating**; the paper explicitly distinguishes proposed architecture from currently implemented evidence. Citation metadata is available in [`CITATION.cff`](CITATION.cff), with the publication index in [`publications/README.md`](publications/README.md).
+
 ## Why this project exists
 
 Enterprise test automation often fails because test data is treated as static fixture files rather than an engineered capability. A mature approach needs reproducibility, referential integrity, privacy controls, environment portability, deterministic generation, cleanup, and evidence that the data itself is valid.
