@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it using the metadata below."
+title: "Test Data Engineering for the AI Era: Synthetic Data, Privacy, Quality and Agentic Test Automation"
+type: article
+authors:
+  - family-names: Manohar
+    given-names: Ashok Kumar
+version: 1.0.0
+date-released: 2026-09-05
+url: "https://github.com/ashokmanohar-ai/test-data-engineering-toolkit/blob/main/WHITEPAPER_TEST_DATA_AI_ERA.md"
+repository-code: "https://github.com/ashokmanohar-ai/test-data-engineering-toolkit"
+license: MIT
+keywords:
+  - Test Data Engineering
+  - Synthetic Data
+  - Privacy Engineering
+  - Quality Engineering
+  - AI Quality Engineering
+  - Agentic AI
+  - Test Automation
+  - Data Governance
+  - Differential Privacy
+  - RAG Evaluation
+  - LLM Evaluation
+  - Test Data Management
+  - Data Quality
+  - CI/CD
+  - Synthetic Test Data
+abstract: >-
+  A reference architecture and Quality Engineering framework for designing,
+  generating, validating, protecting, provisioning and governing test data for
+  conventional software and AI-enabled systems. The work covers deterministic
+  factories, synthetic data, AI-assisted generation, privacy risk, schema and
+  business-rule validation, provenance, referential integrity, boundary and
+  negative data, performance data, RAG/LLM/agent evaluation datasets, tenant
+  isolation, cleanup, observability, CI/CD data gates and production-to-
+  regression learning. The associated toolkit is explicitly incubating and the
+  paper does not claim completed implementation of all described capabilities.
